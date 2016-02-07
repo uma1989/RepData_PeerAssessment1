@@ -2,6 +2,9 @@
 title: "Assignment - Reproducible Research"
 author: "Uma"
 date: "February 2016"
+output: 
+  html_document: 
+    fig_caption: yes
 ---
 
 ```{r}
